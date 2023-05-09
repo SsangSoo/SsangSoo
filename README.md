@@ -14,13 +14,37 @@ Here are some ideas to get you started:
 - 😄 Pronouns: .....
 - ⚡ Fun fact: ...
 --> 
+
 <!-- 헤더 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=SsangSoo%20&fontSize=90)
 
-<!--자바-->
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
+<div text-align=center>
+<!-- 티스토리 -->
+<a href="https://ssangsu.tistory.com/">
+  <img src="https://github-readme-tistory-card.vercel.app/api/badge?name=SsangSoo&theme=vue">
+</a>
+<!-- 방문자 수 -->
+<a href="https://github.com/SsangSoo">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSsangSoo&count_bg=%23D77D0C&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false">
+</a>
+</div>
 
-<!-- 스프링 계열 -->
+<br><br><br>
+
+ <!-- 깃허브 상태  -->
+<a>
+  <img src="https://github-readme-stats.vercel.app/api?username=SsangSoo&show_icons=true&theme=radical">
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
+</a>
+
+<!--자바-->
+<!-- <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> -->
+
+
+<!--
+<!--스프링
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white">&nbsp;
@@ -30,38 +54,5 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/MySql-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 
 <br>
-<!-- <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> -->
-<!---->
-<!---->
-<!---->
-<!---->
-<!---->
-<!---->
-<!---->
-<!---->
-<!---->
-<!---->
-<!---->
-<!----><!---->
-<!---->
-<!---->
-<!---->
-<!---->
-<!---->
-
-
-
-
-<!-- 블로그 뱃지 -->
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=SsangSoo&theme={vue)](https://ssangsu.tistory.com/)
-
-
-
-<!-- 방문자 수 -->
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSsangSoo&count_bg=%23D77D0C&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fssangsu.tistory.com&count_bg=%23FF7600&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=TStory&edge_flat=false)](https://hits.seeyoufarm.com)
-<!-- 깃허브 상태  -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SsangSoo&show_icons=true&theme=radical)
-
-
+<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
+-->
