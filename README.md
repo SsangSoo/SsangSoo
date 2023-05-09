@@ -14,4 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: .....
 - ⚡ Fun fact: ...
 --> 
+
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=SsangSoo)](https://github.com/loosie/github-readme-tistory-card)
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=SsangSoo&theme=vue)](https://github.com/loosie/github-readme-tistory-card)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=ssangsu&postId=default)](https://github.com/loosie/github-readme-tistory-card)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api/badge?name=SsangSoo&postId=default&theme=vue, vue-dark)](https://github.com/loosie/github-readme-tistory-card)
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SsangSoo&show_icons=true&theme=radical)
