@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/SsangSoo">
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSsangSoo&count_bg=%23D77D0C&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false">
 </a>
-</div>
+
 
 <br><br><br>
 
@@ -39,6 +39,8 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
 </a>
 
+ 
+</div>
 <!--자바-->
 <!-- <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> -->
 
