@@ -23,11 +23,6 @@ Here are some ideas to get you started:
 <a href="https://ssangsu.tistory.com/">
   <img src="https://github-readme-tistory-card.vercel.app/api/badge?name=SsangSoo&theme=vue">
 </a>
-<!-- 방문자 수 -->
-<a href="https://github.com/SsangSoo">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSsangSoo&count_bg=%23D77D0C&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false">
-</a>
-
 
 <br><br><br>
 
