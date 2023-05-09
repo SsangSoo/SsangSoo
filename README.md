@@ -60,6 +60,7 @@ Here are some ideas to get you started:
 
 <!-- 방문자 수 -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSsangSoo&count_bg=%23D77D0C&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fssangsu.tistory.com&count_bg=%23FF7600&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=TStory&edge_flat=false)](https://hits.seeyoufarm.com)
 <!-- 깃허브 상태  -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SsangSoo&show_icons=true&theme=radical)
 
