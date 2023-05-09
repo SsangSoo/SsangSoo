@@ -14,17 +14,54 @@ Here are some ideas to get you started:
 - 😄 Pronouns: .....
 - ⚡ Fun fact: ...
 --> 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=SsangSoo%20render&fontSize=90)
+<!-- 헤더 -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=SsangSoo%20&fontSize=90)
+
+<!--자바-->
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
+
+<!-- 스프링 계열 -->
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white">&nbsp;
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fssangsu.tistory.com&count_bg=%23BA7DD1&title_bg=%237C10BA&icon=&icon_color=%23230E0E&title=Tistory&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com&count_bg=%23BA7DD1&title_bg=%237C10BA&icon=&icon_color=%23230E0E&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
+<br>
+<img src="https://img.shields.io/badge/MySql-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+
+<br>
+<!-- <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> -->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!----><!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
 
 
+
+
+<!-- 블로그 뱃지 -->
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=SsangSoo&theme={vue)](https://ssangsu.tistory.com/)
 
 
 
-
+<!-- 방문자 수 -->
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fssangsu.tistory.com&count_bg=%23BA7DD1&title_bg=%237C10BA&icon=&icon_color=%23230E0E&title=Tistory&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com&count_bg=%23BA7DD1&title_bg=%237C10BA&icon=&icon_color=%23230E0E&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
+<!-- 깃허브 상태  -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SsangSoo&show_icons=true&theme=radical)
+
 
