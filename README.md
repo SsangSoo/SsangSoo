@@ -18,12 +18,6 @@ Here are some ideas to get you started:
 <!-- 헤더 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=SsangSoo%20&fontSize=90)
 
-<div text-align=center>
-<!-- 티스토리 -->
-<a href="https://ssangsu.tistory.com/">
-  <img src="https://github-readme-tistory-card.vercel.app/api/badge?name=SsangSoo&theme=vue">
-</a>
-
 <br><br><br>
 
  <!-- 깃허브 상태  -->
