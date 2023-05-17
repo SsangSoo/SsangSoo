@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 --> 
 
 <!-- 헤더 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=SsangSoo%20&fontSize=90)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=SsangSoo%20&fontSize=90">
+</div>
 
 <br><br><br>
 
