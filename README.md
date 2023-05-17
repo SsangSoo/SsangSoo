@@ -21,15 +21,10 @@ Here are some ideas to get you started:
 <br><br><br>
 
  <!-- 깃허브 상태  -->
-<a>
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SsangSoo&show_icons=true&theme=radical">
-</a>
+</div>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SsangSoo&layout=compact">
-</a>
 
  
 </div>
