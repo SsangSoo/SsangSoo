@@ -36,7 +36,7 @@ Here are some ideas to get you started:
   <img src="https://velog.velcdn.com/images/tjdtn4484/post/21c08eef-d5ae-4af6-b896-288c67680900/image.PNG">
 </div>
 
-<br><br><br>
+<br><br>
 
 ## Skill Set
 <!-- 스택 -->
