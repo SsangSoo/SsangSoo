@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <br><br><br>
 
  <!-- 깃허브 상태  -->
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=SsangSoo&show_icons=true&theme=radical">
 </div>
 
