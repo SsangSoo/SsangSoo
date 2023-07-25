@@ -57,6 +57,8 @@ Here are some ideas to get you started:
 <!-- 블로그 -->
 <a href="https://ssangsu.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"/></a>
 
+---
+
  <!-- 깃허브 상태  -->
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=SsangSoo&show_icons=true&theme=radical">
