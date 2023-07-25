@@ -20,12 +20,11 @@ Here are some ideas to get you started:
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=SsangSoo%20&fontSize=90">
 </div>
 
-🖐🏻Hi~! My name is SsangSoo.
-I'm BackEnd Developer. <br>
-I will influence Developer who have a good influence acquaintance and friends <br>
-I aspire to a better code and performance. <br>
-Wait and see me. I am a person who will succeed anyway. <br>
-Ha~ Ha~ Ha~ <br>
+#### 🖐🏻Hi~! My name is SsangSoo. I'm BackEnd Developer. <br>
+#### 💪🏻I will influence Developer who have a good influence acquaintance and friends <br>
+#### 👍🏻I aspire to a better code and performance. <br>
+#### 🫵🏻Wait and see me. I am a person who will succeed anyway. <br>
+#### Ha~ Ha~ Ha~ <br>
 <div align="left">
   <img src="https://velog.velcdn.com/images/tjdtn4484/post/21c08eef-d5ae-4af6-b896-288c67680900/image.PNG">
 </div>
