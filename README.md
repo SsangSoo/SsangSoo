@@ -20,6 +20,13 @@ Here are some ideas to get you started:
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=SsangSoo%20&fontSize=90">
 </div>
 
+ <!-- 깃허브 상태  -->
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=SsangSoo&show_icons=true&theme=radical">
+</div>
+
+<br><br><br>
+
 #### 🖐🏻Hi~! My name is SsangSoo. I'm BackEnd Developer. <br>
 #### 💪🏻I will influence Developer who have a good influence acquaintance and friends <br>
 #### 👍🏻I aspire to a better code and performance. <br>
@@ -31,12 +38,7 @@ Here are some ideas to get you started:
 
 <br><br><br>
 
- <!-- 깃허브 상태  -->
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SsangSoo&show_icons=true&theme=radical">
-</div>
 
-<br><br><br>
 
 <!-- 스택 -->
 <div align="left">
