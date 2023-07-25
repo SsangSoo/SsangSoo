@@ -38,14 +38,28 @@ Here are some ideas to get you started:
 
 <br><br><br>
 
-
+## Skill Set
 <!-- 스택 -->
 <div align="left">
+<!-- 언어 -->
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"><br><br>
+<!-- 프레임워크 -->
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> &nbsp;
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"> &nbsp;
 <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white"> &nbsp; <br><br>
-<img src="https://img.shields.io/badge/MySql-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <br><br>
-<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
- 
+<!-- DB --->
+<img src="https://img.shields.io/badge/MySql-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> &nbsp;
+<img src="https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logo=JPA&logoColor=white"> <br><br>
+<!-- AWS -->  
+<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"> <br><br>
+
+<!-- tool -->
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> &nbsp;
+<img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white"> <br><br>
 </div>
+
+## Blog
+<!-- 블로그 -->
+<a href="https://ssangsu.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"/></a>
+
+
