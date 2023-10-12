@@ -54,8 +54,9 @@
 
 ## Blog
 <!-- 블로그 -->
+<div align="center">
 <a href="https://ssangsu.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"/></a>
-
+</div>
 ---
 
  <!-- 깃허브 상태  -->
