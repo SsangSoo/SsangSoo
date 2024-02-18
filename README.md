@@ -25,7 +25,7 @@
 <br><br>
 
 <!-- 스택 -->
-<div align="center">
+<div align="left">
 <h1>Stack</h1> 
 <hr>
 <!-- 언어 -->
@@ -54,7 +54,7 @@
 
 
 <!-- 블로그 -->
-<div align="center">
+<div align="left">
 <h1>Blog</h1> 
 <a href="https://ssangsu.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"/></a>
 </div>
