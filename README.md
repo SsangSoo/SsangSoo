@@ -32,8 +32,8 @@
 <!--   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"> -->
 <!--   <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white">  <br> -->
 
-<!-- JPA -->  <img src="https://img.shields.io/badge/JPA-06AC38?style=for-the-badge&logo=JPA&logoColor=white"> <br>
-<!-- DB -->   <img src="https://img.shields.io/badge/MySql-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <br>
+<!-- JPA -->  <img src="https://img.shields.io/badge/JPA-06AC38?style=for-the-badge&logo=JPA&logoColor=white"> <br> -->
+<!-- DB -->   <img src="https://img.shields.io/badge/MySql-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <br> -->
 <!-- AWS -->  
 <!-- <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"> -->
 <!-- <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"> -->
