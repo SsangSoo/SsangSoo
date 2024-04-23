@@ -19,7 +19,7 @@
 
 <!-- 스택 -->
 <div align="left">
-<h1>Stack</h1> 
+<!-- <h1>Stack</h1>  -->
 <hr>
 <!-- 언어 -->
 <!--   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> -->
