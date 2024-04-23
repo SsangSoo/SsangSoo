@@ -20,7 +20,6 @@
 <!-- 스택 -->
 <div align="left">
 <!-- <h1>Stack</h1>  -->
-<hr>
 <!-- 언어 -->
 <!--   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> -->
 <!--   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <br> -->
@@ -52,7 +51,7 @@
 <h1>Blog</h1> 
 <a href="https://ssangsu.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"/></a>
 </div>
----
+
 
  <!-- 깃허브 상태  -->
 <!-- <div align="left">
