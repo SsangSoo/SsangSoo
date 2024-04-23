@@ -10,7 +10,7 @@
 
 
   <img src="https://velog.velcdn.com/images/tjdtn4484/post/21c08eef-d5ae-4af6-b896-288c67680900/image.PNG"> <br> 
-  Ha~ Ha~ Ha~ <br>
+<!--  Ha~ Ha~ Ha~ <br> -->
 </span>
 </div>
 
